@@ -9,6 +9,9 @@
 <hr/>
 
 ### Stack
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 #### Stack Self-Evaluation
 ![image](https://user-images.githubusercontent.com/113455892/201515988-8b70aaed-cc83-4126-8616-453a6215a158.png)
