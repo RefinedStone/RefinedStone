@@ -4,7 +4,7 @@
   
 안녕하세요.
 
-저는 Spring을 주로 사용하는 Baeckend 개발자(Quarry Mapper) 입니다.
+저는 Spring을 주로 사용하는 Baeckend 개발자(Quarry Mapper:rofl:) 입니다.
 
 <hr/>
 
