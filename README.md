@@ -8,6 +8,15 @@
 
 <hr/>
 
+### Stack
+
+#### Stack Self-Evaluation
+![image](https://user-images.githubusercontent.com/113455892/201515988-8b70aaed-cc83-4126-8616-453a6215a158.png)
+
+
+
+<hr/>
+
 ### Repository
 
 제가 학습하고 습득한 지식을 최대한 녹여서 갈무리 해보고 있습니다.
