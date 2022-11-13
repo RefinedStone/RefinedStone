@@ -1,3 +1,5 @@
+</div>
+<div align = center>
 안녕하세요.
 
 저는 Baeckend 개발자 입니다.
