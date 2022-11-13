@@ -9,7 +9,7 @@
 <hr />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RefinedStone&show_icons=true&theme=transparent)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RefinedStone&hide=javascript,html,SCSS,CSS,PHP&layout=compact)](https://github.com/RefinedStone/github-readme-stats)  
 <hr />
 
 ### Repository 
@@ -17,6 +17,8 @@
 
 https://github.com/RefinedStone/Personal-Spring-Backend-Server.git
 <hr />
+
+
 
 ### Blog
 https://chem-en-9273.tistory.com/
