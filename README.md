@@ -4,7 +4,7 @@
   
 안녕하세요.
 
-저는 Spring을 사용하는 Baeckend 개발자 입니다.
+저는 Spring을 주로 사용하는 Baeckend 개발자 입니다.
 
 <hr/>
 
