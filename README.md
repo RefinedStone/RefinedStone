@@ -23,7 +23,7 @@
 
 ### Repository
 
-제가 학습하고 습득한 지식을 복습하는 리포지토리
+학습한 지식을 복습하는 리포지토리
 
 https://github.com/RefinedStone/Personal-Springboot-Study.git
 <hr/>
