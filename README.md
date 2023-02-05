@@ -21,13 +21,6 @@
 
 <hr/>
 
-### Repository
-
-학습한 지식을 복습하는 리포지토리
-
-https://github.com/RefinedStone/Personal-Springboot-Study.git
-<hr/>
-
 
 ### My stat
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RefinedStone&&show_icons=true&theme=transparent)
