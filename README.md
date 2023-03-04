@@ -4,7 +4,7 @@
   
 안녕하세요.
 
-저는 Spring을 주로 사용하는 Backend 개발자(Query Mapper:rofl:) 입니다.
+저는 SpringBoot를 주로 사용하는 Backend 개발자(Query Mapper:rofl:) 입니다.
 
 <hr/>
 
