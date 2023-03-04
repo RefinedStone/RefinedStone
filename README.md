@@ -10,6 +10,7 @@
 
 ### Stack
 ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/spring_cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Querydsl](https://img.shields.io/badge/querydsl-6DB33F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
