@@ -4,7 +4,9 @@
   
 안녕하세요.
 
-저는 SpringBoot를 주로 사용하는 Backend 개발자(Query Mapper:rofl:) 입니다.
+저는 SpringBoot를 주로 사용하는 Backend 개발자 입니다.
+
+특히, MSA 전문가가 되기 위한 개발과 학습을 주로 합니다.
 
 <hr/>
 
