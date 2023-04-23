@@ -8,6 +8,7 @@
 
 특히, MSA 전문가가 되기 위한 개발과 학습을 주로 합니다.
 
+Spring Cloud framework, Spring Webflux, Kafka 등이 최근 관심사 입니다.
 <hr/>
 
 ### Stack
