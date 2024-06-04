@@ -1,14 +1,8 @@
 
 
 ### Info
+  Backend Engineer/IT architect
   
-안녕하세요.
-
-저는 SpringBoot를 주로 사용하는 Backend 개발자 입니다.
-
-특히, MSA 전문가가 되기 위한 개발과 학습을 주로 합니다.
-
-Spring Cloud framework, Spring Webflux, Kafka 등이 최근 관심사 입니다.
 <hr/>
 
 ### Stack
